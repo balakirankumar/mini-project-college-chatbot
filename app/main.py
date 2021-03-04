@@ -17,7 +17,7 @@ chatbot = ChatBot(
         'maximum_similarity_threshold': 1.0
         }
     ],
-    database_uri='sqlite:///database199.sqlite3'
+    database_uri='sqlite:///database1999.sqlite3'
 ) 
 # Training with personal Ques & Ans 
 training_data_college = open('training_data/College.txt').read().splitlines()
@@ -38,7 +38,12 @@ app.static_folder = 'static'
     
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("Ngit.html")
+
+
+@app.route("/bot")
+def bot():
+    return render_template("bot.html")
     
 @app.route("/get")
 def get_bot_response():
