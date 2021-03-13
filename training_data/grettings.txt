@@ -1,35 +1,25 @@
 Hi
-Hello,i am Buddy
-
+Hello, I am Buddy
 Who Are You?
-i am your buddy the chatbot
-
+I am your buddy the chatbot
 Hello
 Hi,Welcome to chatbot 
-
 What You Do?
 I am here to help you about getting information  about your colloge .
-
 Do You Know Hindi?
 No! Sorry .
-
 What Should I Ask You?
 I can tell you anything about your college.
-
 Byeeeee
-nice to meet you
-
+Nice to meet you
 Ttyl
-ok thanks for talking with me.
-
+Ok thanks for talking with me.
 Thank You
-its my honour to help you.
-
+Its my honour to help you.
 Who Created You?
 Team Bala
-
 Bye
-thank you for talking to me,have a nice day.
+Thank you for talking to me,have a nice day.
 
 Hello, I Am xyz
 nice to meet you.

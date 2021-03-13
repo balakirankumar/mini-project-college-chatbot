@@ -17,8 +17,7 @@ chatbot = ChatBot(
         'maximum_similarity_threshold': 1.0
         }
     ],
-    database_uri='sqlite:///database1999.sqlite3'
-) 
+    database_uri='sqlite:///databasefinal.sqlite3')
 # Training with personal Ques & Ans 
 training_data_college = open('training_data/College.txt').read().splitlines()
 training_data_gretting = open('training_data/grettings.txt').read().splitlines()
