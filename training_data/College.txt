@@ -1,5 +1,8 @@
+Default Responce
+I am sorry.Please contact balakirankumar999@gmail.com
+
 Attendance
-We are Updating
+We are Updating.
 
 Exam Notifications
 visit <a href="https://www.ouexams.in/press" target="_blank">notifications</a>
@@ -56,10 +59,10 @@ Can You Tell Me About Acdamic Info
 You can visit to know about <a href="https://www.osmania.ac.in/academic-information.php" target="_blank">Acadamic Info</a>
 
 Exams Timtetable
-<a href="https://drive.google.com/file/d/1kIcANX7cc8BCkE7au0lmxX1UcwrJHzUA/view?usp=sharing" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1kIcANX7cc8BCkE7au0lmxX1UcwrJHzUA/view?usp=sharing" target="_blank">Exam Timtetable</a>
 
 Google
-<a href="https://www.google.com" target="_blank">Acadamic Info</a>
+<a href="https://www.google.com" target="_blank">Google.com</a>
 
 Infrastructure
 <a href="https://ngit.ac.in/infrastructure.php" target ="_blank">infrastructure</a>
@@ -70,8 +73,8 @@ First year CSE Syllabus<a href="https://drive.google.com/file/d/16hSiFnHwqkywoJ-
 Cse Second Year Syllabus
 Second year  CSE Syllabus<a href="https://drive.google.com/file/d/1e0F9SN5secLcFpI0k2wCmC0jzboH_x9i/view?usp=sharing" target="_blank">CSE second year syllabus</a>
 
-Cse Third1 Year Syllabus
-Third year CSE Syllabus<a href="https://drive.google.com/file/d/1KQlAeaS-rCkIXzApDx9bZf1r1gZsekzV/view?usp=sharing" target="_blank">CSE second year syllabus</a>
+Cse 3rd Year Syllabus
+Third year CSE Syllabus<a href="https://drive.google.com/file/d/1KQlAeaS-rCkIXzApDx9bZf1r1gZsekzV/view?usp=sharing" target="_blank">CSE third year syllabus</a>
 
 It First Year Syllabus
 First year IT Syllabus<a href="https://drive.google.com/file/d/19tGI6XOYw6aDEjoDzwxabCJ75fvlyQcc/view?usp=sharing" target="_blank">First IT year Syllabus</a>
@@ -79,11 +82,11 @@ First year IT Syllabus<a href="https://drive.google.com/file/d/19tGI6XOYw6aDEjoD
 It Second Year Syllabus
 First second IT Syllabus<a href="https://drive.google.com/file/d/1nwre5GoPWCyULhENTcfAIzIyi2NIfXG0/view?usp=sharing" target="_blank">Second IT year Syllabus</a>
 
-It Third1 Year Syllabus
+It 3rd Year Syllabus
 Third second IT Syllabus<a href="https://drive.google.com/file/d/1VAwqqiTD5xAeogjmct-WjSG4ef3TowrR/view?usp=sharing" target="_blank">Third IT year Syllabus</a>
 
 Lab Externals
-Not yet decided
+18th March to 22nd March
 
 Phone Number
 Contact us:9100965022 / 040-29888262.
@@ -136,4 +139,8 @@ Professor Dr Jaya Prakash.<br> Contact: 9502669317
 College Timings
 9:30 to 16:30
 
+Chemistry Faculty
+<table><tr><th>Faculty</th><th>Teaching to Year</th></tr><tr><td>Padmavathi</td><td>1, 2,3, 4</td></tr><tr><td>Bharath</td><td>2, 4</td></tr><tr><td>Kalyani</td><td>1</td></tr><tr><td>Kiran</td><td>1,2,3</td></tr><tr><td>Prakash</td><td>1,2</td></tr></table>
 
+Physics Faculty
+<table><tr><th>Faculty</th><th>Teaching to Year</th></tr><tr><td>Pramod</td><td>1, 2</td></tr><tr><td>Satish</td><td>2, 4</td></tr><tr><td>Venkat</td><td>1, 2, 4</td></tr><tr><td>Sushmitha</td><td>1, 4</td></tr></table>
